@@ -1,0 +1,162 @@
+Name,House,Gender,Nobility,Is Dead,Num Betrayed,Num Been Betrayed,Is Betrayer,Is Betrayed
+Hugh,Arryn,1,0,1,0,0,0,0
+Marillion,Arryn,1,0,1,0,0,0,0
+Mord,Arryn,1,0,0,0,0,0,0
+Myranda,Arryn,0,1,1,0,0,0,0
+Robin Arryn,Arryn,1,1,0,0,0,0,0
+Vardis Egen,Arryn,1,0,1,0,0,0,0
+Willis Wode,Arryn,1,1,0,0,0,0,0
+Yohn Royce,Arryn,1,1,0,0,0,0,0
+Boros Blount,Baratheon,1,1,0,0,0,0,0
+Mandon moore,Baratheon,1,1,1,1,0,1,0
+Matthos Seaworth,Baratheon,1,1,1,0,0,0,0
+Saladhor Saan,Baratheon,1,1,0,0,0,0,0
+Selyse Baratheon,Baratheon,0,1,0,0,0,0,0
+Davos Seaworth,Baratheon,1,1,0,1,0,1,0
+Balon Greyjoy,Greyjoy,1,1,1,0,0,0,0
+Dagmer,Greyjoy,1,0,0,0,0,0,0
+Drennen,Greyjoy,1,0,1,0,0,0,0
+Lorren,Greyjoy,1,0,1,0,0,0,0
+Theon Greyjoy,Greyjoy,1,1,0,3,0,1,0
+Amory Lorch,Lannister,1,1,1,0,0,0,0
+Arys Oakheart,Lannister,1,1,1,0,0,0,0
+Chella,Lannister,0,0,0,0,0,0,0
+Gregor Clegane,Lannister,1,1,1,0,0,0,0
+Gyles Rosby,Lannister,1,1,1,0,0,0,0
+Hallyne,Lannister,1,0,0,0,0,0,0
+Ilyn Payne,Lannister,1,1,0,0,0,0,0
+Kevan Lannister,Lannister,1,1,1,0,0,0,0
+Lancel,Lannister,1,1,0,0,0,0,0
+Leo Lefford,Lannister,1,1,1,0,0,0,0
+Meryn Trant,Lannister,1,1,1,0,0,0,0
+Podrick Payne,Lannister,1,1,0,0,0,0,0
+Pycell,Lannister,1,0,1,0,0,0,0
+Shaggo,Lannister,1,0,0,0,0,0,0
+Tickler,Lannister,1,0,1,0,0,0,0
+Timett,Lannister,1,0,0,0,0,0,0
+Bronn,Lannister,1,1,0,0,0,0,0
+Jaime Lannister,Lannister,1,1,0,1,0,1,0
+Shae,Lannister,0,0,1,1,0,1,0
+Tommen Baratheon,Lannister,1,1,0,0,0,0,0
+Oberyn Martell,Martell,1,1,1,0,0,0,0
+Eliaria Sand,Martell,0,1,0,1,0,1,0
+Aemon,Night's Watch,1,1,1,0,0,0,0
+Alliser Thorne,Night's Watch,1,0,1,1,0,1,0
+Benjen Stark,Night's Watch,1,1,1,0,0,0,0
+Bowen Marsh,Night's Watch,1,0,1,1,0,1,0
+Eddison Tollet,Night's Watch,1,0,0,0,0,0,0
+Grenn,Night's Watch,1,0,0,0,0,0,0
+Lommy,Night's Watch,1,0,1,0,0,0,0
+Olly,Night's Watch,1,0,1,1,0,1,0
+Othell Yarwyck,Night's Watch,1,0,1,1,0,1,0
+Pypar,Night's Watch,1,0,0,0,0,0,0
+Qhorin,Night's Watch,1,0,1,0,0,0,0
+Rast,Night's Watch,1,0,1,1,0,1,0
+Stonesnake,Night's Watch,1,0,0,0,0,0,0
+Yoren,Night's Watch,1,0,1,0,0,0,0
+Samwell Tarly,Night's Watch,1,1,0,0,0,0,0
+Barra,None,0,0,1,0,0,0,0
+Beric Dondarrion,None,1,1,1,0,0,0,0
+Biter,None,1,0,1,0,0,0,0
+Cohollo,None,1,0,1,0,0,0,0
+Dontos Hollard,None,1,1,1,0,0,0,0
+Haggo,None,1,0,1,0,0,0,0
+Hot Pie,None,1,0,0,0,0,0,0
+Janos Slynt,None,1,1,1,0,0,0,0
+Joyeuse Erenford,None,0,1,0,0,0,0,0
+Kurleket,None,1,0,1,0,0,0,0
+Lothar Frey,None,1,1,0,0,0,0,0
+Mago,None,1,0,0,0,0,0,0
+Marei,None,0,0,0,0,0,0,0
+Mirri Maz Dur,None,0,0,1,1,0,1,0
+Moro,None,1,1,0,0,0,0,0
+Olyvar,None,1,1,0,0,0,0,0
+Polliver,None,1,0,1,0,0,0,0
+Pyat Pree,None,1,1,0,0,0,0,0
+Qotho,None,1,0,1,0,0,0,0
+Quaithe,None,0,1,0,0,0,0,0
+Rorge,None,1,0,1,0,0,0,0
+Steelshanks,None,1,0,0,0,0,0,0
+Ternesio Terys,None,1,0,0,0,0,0,0
+Tobho Mott,None,1,0,0,0,0,0,0
+Unella,None,1,0,0,0,0,0,0
+Walda Bolton,None,0,1,0,0,0,0,0
+Walder Frey,None,1,1,0,1,0,1,0
+Walder Rivers,None,1,1,0,0,0,0,0
+Xaro Xhoan,None,1,1,0,1,0,1,0
+Gendry,None,1,0,0,0,0,0,0
+High Sparrow,None,1,0,0,1,0,1,0
+Jaqen H'ghar,None,1,0,0,0,0,0,0
+Petyr Baelish,None,1,0,0,4,0,1,0
+Sandor Clegane,None,1,1,1,1,0,1,0
+Farlen,Stark,1,0,1,0,0,0,0
+Galbart Glover,Stark,1,1,0,0,0,0,0
+Hodor,Stark,1,0,0,0,0,0,0
+Jacks,Stark,1,0,0,0,0,0,0
+Jojen Reed,Stark,1,1,0,0,0,0,0
+Jon Umber,Stark,1,1,0,0,0,0,0
+Smalljon,Stark,1,1,1,0,0,0,0
+Jory Cassel,Stark,1,1,1,0,0,0,0
+Luwin,Stark,1,0,1,0,0,0,0
+Maege Mormont,Stark,0,1,0,0,0,0,0
+Meera Reed,Stark,0,1,0,0,0,0,0
+Mikken,Stark,1,0,1,0,0,0,0
+Mordane,Stark,0,0,1,0,0,0,0
+Old Nan,Stark,0,0,0,0,0,0,0
+Osha,Stark,0,0,0,0,0,0,0
+Palla,Stark,0,0,0,0,0,0,0
+Quent,Stark,1,0,0,0,0,0,0
+Rickon Stark,Stark,1,1,0,0,0,0,0
+Rodrik Cassel,Stark,1,1,1,0,0,0,0
+Syrio Forel,Stark,1,0,1,0,0,0,0
+Bran Stark,Stark,1,1,0,0,0,0,0
+Brienne of Tarth,Stark,0,1,0,0,0,0,0
+Roose Bolton,Stark,1,1,0,1,0,1,0
+Sansa Stark,Stark,0,1,0,2,0,1,0
+Barristan Selmy,Targaryen,1,1,0,0,0,0,0
+Doreah,Targaryen,0,0,1,0,0,0,0
+Grey Worm,Targaryen,1,0,0,0,0,0,0
+Ilyrio Mopatis,Targaryen,1,1,0,0,0,0,0
+Irri,Targaryen,0,0,0,0,0,0,0
+Rakharo,Targaryen,1,0,0,0,0,0,0
+Daario Naharis,Targaryen,1,0,0,1,0,1,0
+Drogo,Targaryen,1,1,1,0,0,0,0
+Jorah Mormont,Targaryen,1,1,0,2,0,1,0
+Missandei,Targaryen,0,0,0,0,0,0,0
+Brynden Tully,Tully,1,1,0,0,0,0,0
+Donnel Waynwood,Tully,1,1,0,0,0,0,0
+Edmure Tully,Tully,1,1,0,0,0,0,0
+Mace Tyrell,Tyrell,1,1,0,0,0,0,0
+Olenna Tyrell,Tyrell,0,1,0,1,0,1,0
+Margaery Tyrell,Tyrell,0,1,0,0,0,0,0
+Lord of Bones,Wildling,1,1,1,0,0,0,0
+Mance Rayder,Wildling,1,1,1,0,0,0,0
+Orell,Wildling,1,0,1,0,0,0,0
+Gilly,Wildling,0,0,0,0,0,0,0
+Tormund,Wildling,1,1,0,0,0,0,0
+Lysa Arryn,Arryn,0,1,1,2,2,1,1
+Renly Baratheon,Baratheon,1,1,1,1,1,1,1
+Shireen Baratehon,Baratheon,0,1,0,0,1,0,1
+Melisandre,Baratheon,0,0,0,2,2,1,1
+Robert Baratheon,Baratheon,1,1,1,0,3,0,1
+Stannis Baratheon,Baratheon,1,1,0,2,3,1,1
+Myrcella Baratheon,Lannister,0,1,1,0,1,0,1
+Cersei Lannister,Lannister,0,1,0,5,5,1,1
+Joffrey Baratheon,Lannister,1,1,1,1,3,1,1
+Tyrion Lannister,Lannister,1,1,0,3,6,1,1
+Tywin Lannister,Lannister,1,1,1,2,1,1,1
+Jeor Mormont,Night's Watch,1,1,1,0,1,0,1
+Jon Snow,Night's Watch,1,1,0,1,1,1,1
+Craster,None,1,0,1,0,1,0,1
+Kraznys,None,1,1,1,0,1,0,1
+Ramsay Bolton,None,1,1,0,0,1,0,1
+Rickard Karstark,Stark,1,1,1,0,1,0,1
+Arya Stark,Stark,0,1,0,0,1,0,1
+Catelyn Stark,Stark,0,1,1,1,1,1,1
+Eddard Stark,Stark,1,1,1,0,2,0,1
+Robb Stark,Stark,1,1,1,3,3,1,1
+Danaerys Targaryen,Targaryen,0,1,0,1,6,1,1
+Varys,Targaryen,1,0,0,7,2,1,1
+Viserys Targaryen,Targaryen,1,1,1,1,1,1,1
+Loras Tyrell,Tyrell,1,1,0,0,1,0,1
+Ygritte,Wildling,0,0,1,0,1,0,1

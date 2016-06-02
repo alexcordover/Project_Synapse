@@ -1,0 +1,25 @@
+Name,House,Gender,Is Dead,Num Betrayed,Num Been Betrayed,Is Betrayer,Is Betrayed
+Selyse Baratheon,Baratheon,0,0,0,0,0,0
+Kevan Lannister,Lannister,1,1,0,0,0,0
+Lancel,Lannister,1,0,0,0,0,0
+Jaime Lannister,Lannister,1,0,1,0,1,0
+Tommen Baratheon,Lannister,1,0,0,0,0,0
+Rickon Stark,Stark,1,0,0,0,0,0
+Bran Stark,Stark,1,0,0,0,0,0
+Brienne of Tarth,Stark,0,0,0,0,0,0
+Mace Tyrell,Tyrell,1,0,0,0,0,0
+Olenna Tyrell,Tyrell,0,0,1,0,1,0
+Margaery Tyrell,Tyrell,0,0,0,0,0,0
+Renly Baratheon,Baratheon,1,1,1,1,1,1
+Shireen Baratehon,Baratheon,0,0,0,1,0,1
+Robert Baratheon,Baratheon,1,1,0,3,0,1
+Stannis Baratheon,Baratheon,1,0,2,3,1,1
+Myrcella Baratheon,Lannister,0,1,0,1,0,1
+Cersei Lannister,Lannister,0,0,5,5,1,1
+Joffrey Baratheon,Lannister,1,1,1,3,1,1
+Tyrion Lannister,Lannister,1,0,3,6,1,1
+Tywin Lannister,Lannister,1,1,2,1,1,1
+Arya Stark,Stark,0,0,0,1,0,1
+Catelyn Stark,Stark,0,1,1,1,1,1
+Eddard Stark,Stark,1,1,0,2,0,1
+Robb Stark,Stark,1,1,3,3,1,1
